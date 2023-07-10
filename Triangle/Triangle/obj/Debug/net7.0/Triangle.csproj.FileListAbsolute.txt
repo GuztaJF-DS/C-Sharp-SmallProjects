@@ -1,0 +1,15 @@
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.exe
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.deps.json
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.runtimeconfig.json
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.dll
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.pdb
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfo.cs
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.dll
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\refint\Triangle.dll
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.pdb
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.genruntimeconfig.cache
+C:\Users\jotaEfe\source\repos\Triangle\Triangle\obj\Debug\net7.0\ref\Triangle.dll
