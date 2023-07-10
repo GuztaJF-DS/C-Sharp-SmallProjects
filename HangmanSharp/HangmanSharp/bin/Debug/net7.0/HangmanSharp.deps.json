@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HangmanSharp/1.0.0": {
+        "runtime": {
+          "HangmanSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HangmanSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

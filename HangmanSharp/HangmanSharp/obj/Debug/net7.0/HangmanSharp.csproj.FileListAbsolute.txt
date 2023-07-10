@@ -1,0 +1,15 @@
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\bin\Debug\net7.0\HangmanSharp.exe
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\bin\Debug\net7.0\HangmanSharp.deps.json
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\bin\Debug\net7.0\HangmanSharp.runtimeconfig.json
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\bin\Debug\net7.0\HangmanSharp.dll
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\bin\Debug\net7.0\HangmanSharp.pdb
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.csproj.AssemblyReference.cache
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.AssemblyInfoInputs.cache
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.AssemblyInfo.cs
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.csproj.CoreCompileInputs.cache
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.dll
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\refint\HangmanSharp.dll
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.pdb
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\HangmanSharp.genruntimeconfig.cache
+C:\Users\jotaEfe\source\repos\HangmanSharp\HangmanSharp\obj\Debug\net7.0\ref\HangmanSharp.dll
